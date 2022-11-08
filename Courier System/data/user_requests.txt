@@ -1,0 +1,8 @@
+2022-07-10,ashish@gmail.com,988786666,Non-Document,3.0,Houshold goods,Kathmandu,Birtamod,pending,C40ad34
+2022-07-10,dhan@gmail.com,987878776,Non-Document,5.0,Fabricating goods,Maitdevi,Dolakha,pending,C48beb7
+2022-07-10,aryan@gmail.com,988787767,Non-Document,50.0,Cement ho,Bhaktapur,Gaushala,pending,C76a5b8
+2022-07-10,srijana@gmail.com,98765432,Document,7.0,n/a,Birratnagar,Bardibas,pending,C769b34
+2022-07-10,saugat@gmail.com,987667676,Document,8.0,n/a,Haldibari,Dhulabari,pending,Ce86ab2
+2022-07-10,ramesh@gmail.com,9876665353,Non-Document,34.0,lifter,btm,ktm,pending,C5942bc
+2022-07-10,raju@gmail.com,977865652,Document,4.0,luggage,Pokhara,Simara,pending,C65cb8d
+2022-07-10,rahul@gmail.com,987776545,Document,8.0,n/a,Jhapa,Pokhara,pending,C403490

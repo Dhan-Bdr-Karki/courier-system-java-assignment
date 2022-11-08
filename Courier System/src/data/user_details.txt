@@ -1,0 +1,13 @@
+D945a79,Dhan Karki,dhan@gmail.com,password,98000000,Managing,Managing
+Df76bc7,Ram Giri,ram@gmail.com,password,9887788,Delivery,Delivery
+D11ee22,Ashish Tuladhar,ashish@gmail.com,password,980000000,Delivery,Delivery
+U08f5b5,Asis Manandhar,asis.mndhr@gmail.com,password,9843806418,User,User
+D90d28e,Muna Shrestha,muna@gmail.com,password,9841356487,Managing,Managing
+Dbf77a4,Aryan Shrestha,aryan@gmail.com,password,987456865,Delivery,Delivery
+D2bc6c2,Srijana Tandukar,sri@gmail.com,password,987568458,User,User
+D770b25,Januka Tajpuriya,januka@gmail.com,password,9852364715,Delivery,Delivery
+Ue664a1,Nishesh Karki,nishesh@gmail.com,password,9800000099,User,User
+U6d4980,Ankita Giri,ankita@gmail.com,password,983333333,User,User
+U876049,Baby Girl,baby@gmail.com,password,98000000,User,User
+Ube0e11,abak tuladhar,abak@gmail.com,password,98899999,User,User
+Ua7d784,Ipshika Karki,ips@gmail.com,password,98456826,User

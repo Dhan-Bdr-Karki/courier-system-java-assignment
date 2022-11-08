@@ -1,0 +1,6 @@
+Hari Bahadur Karki,hari@gmail.com,delivery,Male,2002-2-3,Bharatpur,980989779,D85f78c
+Asis Tuladhar,asis@gmail.com,password,Male,2000-4-5,Kalimati,9876656566,D23c9ef
+Rajina Giri,rojina@gmail.com,password,Female,1999-3.4,Kalanki,9877655656,D79dec8
+Rajesh Hamal,hamal@gmail.com,password,Male,1997-3-1,Jhapa,98767678,D320a56
+Aryan Shrestha,aryan@gmail.com,password,Male,2001-3-4,Satdobato,977676454,Def58fe
+Dhan Bdr Karki,dhan@gmail.com,password,Male,2002-6-12,Jhapa,9876576777,D027f92
